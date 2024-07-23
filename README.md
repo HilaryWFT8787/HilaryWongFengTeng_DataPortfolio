@@ -8,4 +8,4 @@ If you want to connect with me, here is my social media:
 
 ## SQL Projects
 ### SQL Project 1: Analyzing Students' Mental Health
-[SQL Student Mental Data Analysis Project](SQL_Mental_proj.md)
+✅: [SQL Student Mental Data Analysis Project](SQL_Mental_proj.md)

@@ -42,6 +42,9 @@ As for the variable `tosc`, it denoted as the total score of social connectednes
 
 The variable `toas` is defined as the total score of acculturative stress (ASISS test). ASISS, which also denoted as Acculturative Stress Scale for International Student, a practical approach to stress measurement that involve stress score based on respective acculturative stress statement such as perceived discrimination, homesickness, perceived hate, fear, stress due to change, guilt and non-specific miscellaneous. The ASSIS score range is range between 36 to 180 where the higher the scores accumulate indicates the higher the acculturative stress the person endure.
 
+After ensuring all variable are fully unerstand, the first step to start the data analysation is to ensure there any empty row of records present in the dataset that might potentially affect the final result. With the the following SQL statement have been implimented to validate the present of null record.
+```
+```
 
 
 

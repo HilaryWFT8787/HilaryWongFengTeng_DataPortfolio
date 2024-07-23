@@ -23,7 +23,7 @@ With that, the dataset's column descriptions provided valuable information for m
 Return a table with nine observations and five columns summarizing data for the international students: `stay`, `count_int`, `average_phq`, `average_scs`, and `average_as`, **in that order**. The average columns should contain the average of the `todep`, `tosc`, and `toas` columns for each length of stay, **rounded to two decimal places**. The `count_int` column should be the number of _international students_ for each length of stay. Sort the results by the length of stay in **descending order**.
 
 ## Data Exploration
-In every data project, it is typical to explore the data to gain better understanding of the data. Henceforth, I had executed a SQL statement to view the raw dataset and the following table was created:
+In every data project, it is typical to explore the data to gain better understanding of the data. Henceforth, I had executed a SQL statement to view the raw dataset and the following table was created from the data named under 'students.csv':
 ```
 SELECT * 
 FROM students;

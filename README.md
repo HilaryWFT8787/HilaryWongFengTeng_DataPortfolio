@@ -9,7 +9,8 @@ If you want to connect with me, here is my social media:
 ## SQL Projects
 ### SQL Project 1: Analyzing Students' Mental Health
 - This project is about analysing international students risk of mental health, and that social connectedness and acculturative stress that are predictive of depression.
-✅: [SQL Student Mental Data Analysis Project](SQL_Mental_proj.md)
+
+Check the project here 👉 [SQL Student Mental Data Analysis Project](SQL_Mental_proj.md)
 ```
 SELECT 
   stay, 

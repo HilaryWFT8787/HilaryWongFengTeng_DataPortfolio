@@ -1,5 +1,5 @@
 # SQL portfolio 1
-## SLQ Project about Analyzing Students' Mental Health
+## SQL Project about Analyzing Students' Mental Health
 
 > [!NOTE]
 > This project description is sourced from DataCamp’s project on mental health of students going to a university in a different country. DataCamp is an online platform offering data science and data analysis courses and projects. The original project can be found there:

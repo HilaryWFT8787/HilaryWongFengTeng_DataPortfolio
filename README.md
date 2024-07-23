@@ -31,9 +31,21 @@ FROM students;
 ![image](https://github.com/user-attachments/assets/e4d85db5-33a1-43b4-a7f3-96974672ed60)
 > *Only the first 10 rows and 6 coloumns are shown.
 
-The dataset had return total of 286 rows of result with 50 columns. The dataset's size makes it challenging to ensure accuracy for the number of columns returned. With the aforementioned table schema above, the most important variables for the study are mentioned and will be focused moving forward. While all the variables are straight to the point, there a couple of variable required for further clarification and understanding, such as: `todep`, `tosc`, and `toas`.
+The dataset had return total of 286 rows (or records) of result with 50 columns (or variables). The dataset's size makes it challenging to ensure accuracy for the number of columns returned. With the aforementioned table schema above, the most important variables for the study are mentioned and will be focused moving forward. While all the variables are straight to the point, there a couple of variable required for further clarification and understanding, such as: `todep`, `tosc`, and `toas`.
 
-Variable `todep` is denoted as the total score of depression (PHQ-9 test). 
+Variable `todep` is denoted as the total score of depression (PHQ-9 test). PHQ-9, which also stands for Patient Health Questionnaire-9, is a multipurpose instrument for screening, diagnosing, monitoring and measuring the depression severity. This PHQ-9 test consist of 9 questions to determine the depression score ranking from "None" to "Severe". The interpretation of depression severity can be view as followed:
+
+![image](https://github.com/user-attachments/assets/585419ba-1b89-449f-b5cd-317e1f91a3d5)
+> Interpretation source is retrieved from https://www.hiv.uw.edu/page/mental-health-screening/phq-9
+
+As for the variable `tosc`, it denoted as the total score of social connectedness (SCS test). SCS, also indicated as social connectedness scale, is a A 20-item Likert scale was used to measure participants' perceived social connectedness, ranging from strongly disagree (1) to strongly agree (6). The higher the sum of the scores for all 20 items on the SCS indicate, the greater sense of social connectedness.
+
+The variable `toas` is defined as the total score of acculturative stress (ASISS test). ASISS, which also denoted as Acculturative Stress Scale for International Student, a practical approach to stress measurement that involve stress score based on respective acculturative stress statement such as perceived discrimination, homesickness, perceived hate, fear, stress due to change, guilt and non-specific miscellaneous. The ASSIS score range is range between 36 to 180 where the higher the scores accumulate indicates the higher the acculturative stress the person endure.
+
+
+
+
+
 
 
 

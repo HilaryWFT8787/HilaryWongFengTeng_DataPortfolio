@@ -32,6 +32,6 @@ ORDER BY stay DESC;
 - This project is based on my past assignment done in University about entailing a detailed analysis of the World Values Survey Wave 7 (2017-2020): Malaysia (MYS)
 
 Check the project here  👉 [R Analysis on World Value Survey 2017 - 2020](R_WVS_MYS_proj.md)
-
+Check the data utilised 👉 [WVS Malaysia data](MYS.csv)
 
 

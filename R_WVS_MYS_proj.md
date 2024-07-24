@@ -1,7 +1,7 @@
 # R Programming Project: Analysation on World Values Survey Wave 7 (2017-2020)
 
 > [!NOTE]
-> This project is fully ustilised R programming langauge. The dataset can be found [Here](MYS.csv) and it explaination can be found [Here](R_Proj_1_MYS_detailed.pdf)
+> This project is fully ustilised R programming langauge. The dataset can be found [Here](MYS.csv) and its explaination can be found [Here](R_Proj_1_MYS_detailed.pdf)
 
 ## Executive Summary
 This report is aiming for analyzing the chosen dataset from the World Values Survey Wave 7 in Malaysia (2017-2020), via various multivariate techniques such as Principal Component Analysis, K-means Clustering and Exploratory Factor Analysis. Variables that are chosen to be employed in this analysis are as follows: Age Group, Self-perception of social class (Class), Feeling of happiness (Q46), Self-rated health (Q47), Freedom of choice in life (Q48), Satisfaction in life (Q49) and Satisfaction in financial household (Q50).

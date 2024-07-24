@@ -36,6 +36,6 @@ Check the project here  👉 [R Analysis on World Value Survey 2017 - 2020](R_WV
 
 Check the data utilised 👉 [WVS Malaysia data](MYS.csv)
 
-Check data explaination 👉 [The dataset of World Values Survey Wave 7 (2017-2020): Malaysia (MYS)](R Proj 1  MYS detailed.pdf)
+Check data explaination 👉 [The dataset of World Values Survey Wave 7 (2017-2020): Malaysia (MYS)](R_Proj_1_MYS_detailed.pdf)
 
 

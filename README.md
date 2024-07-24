@@ -10,7 +10,8 @@ If you want to connect with me, here is my social media:
 ### SQL Project 1: Analyzing Students' Mental Health
 - This project is about analysing international students risk of mental health, and that social connectedness and acculturative stress that are predictive of depression.
 
-Check the project here 👉 [SQL Student Mental Data Analysis Project](SQL_Mental_proj.md)
+Check the project here   👉 [SQL Student Mental Data Analysis Project](SQL_Mental_proj.md)
+Check the data utilised  👉 [students.csv](students.csv)
 ```
 SELECT 
   stay, 
@@ -30,7 +31,7 @@ ORDER BY stay DESC;
 ### R Project 1:  Uncover Hidden Patterns in the Data Through Multivariate Techniques
 - This project is based on my past assignment done in University about entailing a detailed analysis of the World Values Survey Wave 7 (2017-2020): Malaysia (MYS)
 
-Check the project here 👉 [R Analysis on World Value Survey 2017 - 2020](R_WVS_MYS_proj.md)
+Check the project here  👉 [R Analysis on World Value Survey 2017 - 2020](R_WVS_MYS_proj.md)
 
 
 

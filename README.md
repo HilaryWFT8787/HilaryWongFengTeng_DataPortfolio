@@ -26,9 +26,11 @@ ORDER BY stay DESC;
 ![image](https://github.com/user-attachments/assets/a7795033-bb86-4cd4-a999-5d475e1571ef)
 
 
-
 ## R Programming Language Projects
 ### R Project 1:  Uncover Hidden Patterns in the Data Through Multivariate Techniques
 - This project is based on my past assignment done in University about entailing a detailed analysis of the World Values Survey Wave 7 (2017-2020): Malaysia (MYS)
+
+Check the project here 👉 [R Analysis on World Value Survey 2017 - 2020](R_WVS_MYS_proj.md)
+
 
 

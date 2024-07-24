@@ -10,7 +10,7 @@ _Does going to university in a different country affect your mental health? A Ja
 
 _The study found that international students have a higher risk of mental health difficulties than the general population, and that social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression._
 
-_Explore the `students` data using PostgreSQL to find out if you would come to a similar conclusion for international students and see if the length of stay is a contributing factor._
+_Explore the `students` data ([students.csv](students.csv)) using PostgreSQL to find out if you would come to a similar conclusion for international students and see if the length of stay is a contributing factor._
 
 ## Data Table Schema
 The data table schema is presented as followed:
